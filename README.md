@@ -1,4 +1,4 @@
-# homomorphic_time_lock
+# Homomorphic Signature-based Witness Encryption (HSWE)
 Python (and Rust soon!) implementation of the schemes described in the Homomorphic Signature-based Witness Encryption (HSWE) paper.
 
 Eprint: [Homomorphic Signature-based Witness Encryption and Applications](https://eprint.iacr.org/2025/443.pdf)
